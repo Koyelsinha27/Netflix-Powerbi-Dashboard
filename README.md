@@ -14,7 +14,8 @@ An interactive Power BI dashboard built to analyze Netflix content data, includi
 - Country-wise distribution of content  
 
 📸 Dashboard Preview  
-![Dashboard](netflix_dashboard.png)
+![Dashboard](<img width="1266" height="711" alt="image" src="https://github.com/user-attachments/assets/f1b87b94-ce50-4864-8113-3608ee2b871e" />
+)
 
 💡 Key Insights  
 - Most popular genres on Netflix  
