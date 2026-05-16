@@ -5,4 +5,4 @@ Performed data cleaning and solved analytical SQL queries to extract useful insi
 Tools Used: SQL, MySQL / Oracle SQL
 
 ## Dashboard Preview
-![Dashboard](netflix_dashboard.png)
+![Dashboard](Dashboard_Preview.png)
